@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project contains an email template built according to TailwindUI standards. The template is responsive and suits a variety of email clients, ensuring a consistent and appealing presentation of your content.
+An email template built according to TailwindUI standards. The template is responsive and suits a variety of email clients, ensuring a consistent and appealing presentation of your content.
 
 ## Features
 
