@@ -24,6 +24,9 @@ An email template built according to TailwindUI standards. The template is respo
 
 4. **Sending the Email**: Use an email sending service to send your emails using this template. 
 
+## Notes
+Wrap your content in `<div class="container"></div>`
+
 ## Contribution
 
 Contributions to improve the template are welcome. Please follow the below steps to contribute:
